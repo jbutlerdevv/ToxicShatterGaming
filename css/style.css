@@ -1,0 +1,70 @@
+body {
+    background-color: black;
+}
+
+/*Text for main card header*/
+.tsg-title, .card-title  {
+    font-family: 'Nosifer';
+    color: #72C000;
+}
+
+/*Text for navbar font*/
+.sticky-top, .footer-links{
+    font-family: 'Barrio', cursive;
+}
+.footer {
+    /* border-top: solid 1px green; */
+    margin-top: 3em;
+    padding-top: 3em;
+}
+
+.navbar {
+    background-color: black;
+}
+
+/*OVERRIDE BOOTSTRAP COLORS*/
+.btn-outline-success:hover {
+    background-color: #72C000;
+}
+
+.btn-outline-success {
+    color: #72C000;
+    border-color: #72C000;
+}
+/*END OVERRIDE BOOTSTRAP COLORS*/
+
+.about-footer {
+    max-height: .5em;
+}
+
+.nav-link:hover {
+    color: gray;
+}
+
+.nav-link {
+    color: #72C000;
+}
+
+.team-cards {
+    border: 1px solid #72C000;
+    border-radius: 1.5em;
+}
+
+.carousel-item {
+    /* text-shadow: 1px 1px white; */
+    text-shadow: white 0px 0px 1px,   white 0px 0px 1px,   white 0px 0px 1px,
+             white 0px 0px 1px,   white 0px 0px 1px,   white 0px 0px 1px,
+             white 0px 0px 1px, white 0px 0px 1px, white 0px 0px 1px;
+}
+
+.card-footer {
+    border-top: 1px solid #72C000;
+}
+
+
+/* 
+font-family: 'Nosifer', cursive; // use for Toxic Shatter Title
+font-family: 'Barriecito', cursive;
+font-family: 'Barrio', cursive; // use this fony for navbar/footer/links
+font-family: 'Kirang Haerang', cursive; 
+*/
