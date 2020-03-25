@@ -1,12 +1,15 @@
 03/24/20:
 -Update carousel text to match the game image --- DONE
--Add remaining members to the team page
+-Add remaining members to the team page --- DONE
 -Add border-radius to round out each team members card --- DONE
--Add twitch links to team cards
--Make team card titles same text as links
+-Add twitch links to team cards --- DONE
+-Make team card titles same text as links --- DONE
+
+-Add form for contact us page
 
 Stretch Goals:
 -Add functionality to the Search Bar
 -Add functionality to send notification to individual member for LFG or just to contact
 -Look up stats on each individual member, add link to card to see stats from different games
+-Make contact page communicate with Discord APIs to post messages via the TSG website
 -Add white border on text within the Carousel --- DONE

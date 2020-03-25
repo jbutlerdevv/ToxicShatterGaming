@@ -3,7 +3,7 @@ body {
 }
 
 /*Text for main card header*/
-.tsg-title, .card-title  {
+.tsg-title, .card-title, .contact-title  {
     font-family: 'Nosifer';
     color: #72C000;
 }
